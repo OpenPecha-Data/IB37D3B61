@@ -1,15 +1,16 @@
-id: opecha:P000574
+id: P000574
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22037
   title: རྟ་རྒྱུག་རྒྱལ་འཇོག
-  volume:
+  author: ''
+  volumes:
     7011dc26045c43788688af4522f81433:
       image_group_id: I1PD28028
       title: Volume 1 of rta rgyug rgyal 'jog
       volume_number: 1
       total_pages: 270
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྟ་རྒྱུག་རྒྱལ་འཇོག
   author: ''
